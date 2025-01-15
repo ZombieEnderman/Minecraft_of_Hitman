@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "在Minecraft中體驗Hitman的世界!",
+      "name": "Minecraft of Hitman Behavior",
+      "uuid": "9d903240-f395-4191-bd2b-61289ca47ace",
+      "version": [0, 1, 0],
+      "min_engine_version": [1, 21, 0]
+    },
+    "modules": [
+      {
+        "description": "在Minecraft中體驗Hitman的世界!",
+        "type": "data",
+        "uuid": "ae97da0b-b5a0-498e-8787-8b88c383db35",
+        "version": [0, 1, 0]
+      }
+    ]
+}

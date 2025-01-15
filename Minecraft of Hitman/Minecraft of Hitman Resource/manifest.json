@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "在Minecraft中體驗Hitman的世界!",
+      "name": "Minecraft of Hitman Resource",
+      "uuid": "ae1b7402-c378-44ed-8894-c0346107d193",
+      "version": [0, 1, 0],
+      "min_engine_version": [1, 21, 0]
+    },
+    "modules": [
+      {
+        "description": "在Minecraft中體驗Hitman的世界!",
+        "type": "resource",
+        "uuid": "1d600295-d246-43b1-8b1d-2d5a4a0aecbe",
+        "version": [0, 1, 0]
+      }
+    ]
+}
